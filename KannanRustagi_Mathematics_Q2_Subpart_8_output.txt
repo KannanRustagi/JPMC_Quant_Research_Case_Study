@@ -1,0 +1,29 @@
+Answer to question 2.8 of Mathematics part
+
+ P(payoff =0) = 0.037037
+ P(payoff =1) = 0.103175
+ P(payoff =2) = 0.148239
+ P(payoff =3) = 0.166028
+ P(payoff =4) = 0.158377
+ P(payoff =5) = 0.133081
+ P(payoff =6) = 0.100085
+ P(payoff =7) = 0.0679313
+ P(payoff =8) = 0.0417939
+ P(payoff =9) = 0.0233554
+ P(payoff =10) = 0.0118604
+ P(payoff =11) = 0.00546948
+ P(payoff =12) = 0.00228657
+ P(payoff =13) = 0.000864324
+ P(payoff =14) = 0.000294354
+ P(payoff =15) = 8.99013e-05
+ P(payoff =16) = 2.44817e-05
+ P(payoff =17) = 5.90125e-06
+ P(payoff =18) = 1.24769e-06
+ P(payoff =19) = 2.28719e-07
+ P(payoff =20) = 3.58114e-08
+ P(payoff =21) = 4.69479e-09
+ P(payoff =22) = 5.01342e-10
+ P(payoff =23) = 4.18899e-11
+ P(payoff =24) = 2.56897e-12
+ P(payoff =25) = 1.02839e-13
+ P(payoff =26) = 2.01646e-15
